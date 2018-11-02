@@ -1,0 +1,7 @@
+C:\Users\jstiles\source\repos\RefactorDebugging_JayStiles\RefactorDebugging_JayStiles\obj\Debug\RefactorDebugging_JayStiles.csprojAssemblyReference.cache
+C:\Users\jstiles\source\repos\RefactorDebugging_JayStiles\RefactorDebugging_JayStiles\obj\Debug\RefactorDebugging_JayStiles.csproj.CoreCompileInputs.cache
+C:\Users\jstiles\source\repos\RefactorDebugging_JayStiles\RefactorDebugging_JayStiles\bin\Debug\RefactorDebugging_JayStiles.exe.config
+C:\Users\jstiles\source\repos\RefactorDebugging_JayStiles\RefactorDebugging_JayStiles\bin\Debug\RefactorDebugging_JayStiles.exe
+C:\Users\jstiles\source\repos\RefactorDebugging_JayStiles\RefactorDebugging_JayStiles\bin\Debug\RefactorDebugging_JayStiles.pdb
+C:\Users\jstiles\source\repos\RefactorDebugging_JayStiles\RefactorDebugging_JayStiles\obj\Debug\RefactorDebugging_JayStiles.exe
+C:\Users\jstiles\source\repos\RefactorDebugging_JayStiles\RefactorDebugging_JayStiles\obj\Debug\RefactorDebugging_JayStiles.pdb
